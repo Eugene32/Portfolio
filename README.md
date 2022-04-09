@@ -13,4 +13,4 @@ Launch Web Page --> [My Portfolio](https://eugene32.github.io/My-Portfolio/)
 Preview:
 ![Web Page Preview][logo]
 
-[logo]: https://github.com/Eugene32/My-Portfolio/blob/1ae82c9e1229eebe068090f286987dec21abfbd2/demo.png "PREVIEW"
+[logo]: https://github.com/Eugene32/Portfolio/blob/main/assets/images/preview1.png "PREVIEW"
