@@ -8,7 +8,7 @@ This web page applies/demonstrated the following elements/properties:
 
 
 
-Launch Web Page --> [My Portfolio](https://eugene32.github.io/My-Portfolio/)
+Launch Web Page --> [My Portfolio](https://eugene32.github.io/Portfolio/)
 
 Preview:
 ![Web Page Preview][logo]
